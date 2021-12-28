@@ -1,9 +1,29 @@
 body {
-  background-color: blue;
+  background-color: #1C1C1C;
 }
 h1 {
-  color: grey;
+  color: rgb(0, 0, 0);
+  font-family: 'Segoe UI';
+  text-align: center;
+  width: 100%;
+  font-weight: 600;
+  line-height: 1.25;
+  display: block;
 }
-p {
-  color: red;
+a{
+  text-decoration: none;
+  font-family: 'Segoe UI';
+  border: solid #E6E6E6 2px;
+  margin-bottom: 20px;
+  padding: 17px;
+  display: block;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  max-width: 530px;
+  width: auto;
+  display: block;
+  margin: 27px auto;
+  font-size: 20px;
 }
