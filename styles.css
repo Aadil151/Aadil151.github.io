@@ -4,26 +4,41 @@ body {
 h1 {
   color: rgb(0, 0, 0);
   font-family: 'Segoe UI';
-  text-align: center;
+  text-align:center;
   width: 100%;
   font-weight: 600;
   line-height: 1.25;
   display: block;
+  margin: auto;
 }
 a{
   text-decoration: none;
   font-family: 'Segoe UI';
   border: solid #E6E6E6 2px;
   margin-bottom: 20px;
-  padding: 17px;
   display: block;
+  padding: 9px;
+  border-radius: 15px;
+  background: whitesmoke;
 }
 ul{
   text-align: center;
   list-style-type: none;
-  max-width: 530px;
-  width: auto;
+  max-width: 120px;
   display: block;
   margin: 27px auto;
   font-size: 20px;
+  padding: 5px;
+  padding-bottom: 0.01px;
+  border-radius: 25px;
+  border: hidden 5px;
+  background:darkblue;
+}
+#main{
+  background: darkblue;
+  align-content: center;
+  padding: 10px;
+  max-width: 210px;
+  border-radius: 5px;
+  margin: auto;
 }
