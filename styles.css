@@ -12,7 +12,9 @@ h1 {
   display: block;
   margin: auto;
   padding-bottom: 50px;
+  padding-top: 200px;
   font-size: 80px;
+  min-height: 700px;
 }
 a{
   text-decoration: none;
