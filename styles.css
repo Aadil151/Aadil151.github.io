@@ -34,7 +34,7 @@ h1 {
   font-weight: 670;
   font-size: 80px;
   margin-top: none;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   text-shadow:0 1px 3px #66FCF1;
   animation: 1.5s ease-out 0s 1 slideInFromLeft;
 }
@@ -43,8 +43,16 @@ h2{
   font-family: 'Segoe UI';
   text-align:center;
   margin: auto;
+  margin-bottom: 30px;
+  margin-top: 20px;
   font-size: 60px;
 }
+h3{
+  font-family: 'Segoe UI';
+  text-align: center;
+  font-size:40px;
+}
+
 a{
   text-decoration: none;
   font-family: 'Segoe UI';
@@ -85,7 +93,7 @@ ul{
   padding: 30px;
   padding-bottom: 30px;
   margin-top: 5px;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   margin: auto;
   border-radius: 5px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.795);
@@ -97,7 +105,7 @@ ul{
   align-content: center;
   padding:40px;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 70px;
   margin-bottom: 50px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.795);
 }
@@ -109,7 +117,7 @@ ul{
   margin: auto;
   margin-bottom: 40px;
   border-radius: 4px;
-  font-size: 30px;
+  font-size: 20px;
   font-family: 'Segoe UI';
 }
 
