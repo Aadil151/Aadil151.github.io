@@ -28,7 +28,7 @@ h2{
   text-align:center;
   margin: auto;
   margin-bottom: 30px;
-  margin-top: 20px;
+  margin-top: 60px;
   font-size: 60px;
 }
 h3{
@@ -74,21 +74,32 @@ ul{
   background: #C5C6C7;
   align-content: center;
   padding: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   margin-top: 5px;
   margin-bottom: 50px;
   margin: auto;
+  max-width: fit-content;
   border-radius: 5px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.795);
 }
 
 #projects{
+  align-content: center;
+  padding:30px;
+  margin: auto;
+  max-width: fit-content;
+  margin-bottom: 50px;
+}
+
+#project{
   background: #C5C6C7;
   align-content: center;
   padding:40px;
   margin: auto;
+  max-width: fit-content;
   margin-top: 70px;
   margin-bottom: 50px;
+  border-radius: 5px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.795);
 }
 
@@ -105,11 +116,11 @@ ul{
 
 ul:hover{
   transform: scale(1.1);
-  transition: box-shadow 0.6s ease-in-out;
+  transition: box-shadow 0.8s ease-in-out;
 }
 p:hover{
   transform: scale(1.1);
-  transition: box-shadow 0.6s ease-in-out;
+  transition: box-shadow 0.8s ease-in-out;
 }
 #about p{
   text-align: center;
