@@ -114,14 +114,6 @@ ul{
   font-family: 'Ubuntu', sans-serif;
 }
 
-ul:hover{
-  transform: scale(1.1);
-  transition: box-shadow 0.8s ease-in-out;
-}
-p:hover{
-  transform: scale(1.1);
-  transition: box-shadow 0.8s ease-in-out;
-}
 #about p{
   text-align: center;
   max-width: 600px;
