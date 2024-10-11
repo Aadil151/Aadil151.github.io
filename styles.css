@@ -87,7 +87,7 @@ ul{
   margin: auto;
   max-width: fit-content;
   margin-bottom: 70px;
-  display: flex;
+  /*display: flex;*/
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
@@ -138,6 +138,7 @@ ul{
   transition: all 0.25s cubic-bezier(0, 0, 0, 1);
   margin: 30px;
   box-sizing: border-box;
+  align-items: center;
 }
 
 .package:hover {
